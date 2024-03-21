@@ -2,12 +2,7 @@ package main
 
 import (
 	"Framework_API/controllers"
-	//"database/sql"
-	// "fmt"
-	// "log"
-	// "net/http"
-
-	//"database/sql"
+	
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/labstack/echo/v4"
 )
